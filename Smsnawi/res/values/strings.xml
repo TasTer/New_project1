@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SmsnawiActivity!</string>
+    <string name="app_name">Smsnawi</string>
+    <string name="location_text">Moje położenie geograficzne: </string>
+    <string name="contacts_text">Kontakty:</string>
+    <string name="contact_default_text">[adresat]</string>
+    <string name="send_text">wyślij SMS</string>
+</resources>
