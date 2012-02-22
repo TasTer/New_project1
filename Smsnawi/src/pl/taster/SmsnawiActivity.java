@@ -38,6 +38,7 @@ public class SmsnawiActivity extends Activity {
                     startActivityForResult(intent, 0);
             }
         });
+        //abrakadabra out of this world
         sendButton.setOnClickListener(new OnClickListener() {
         	public void onClick(View arg0) {
                     sendSMS();
